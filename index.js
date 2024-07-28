@@ -26,7 +26,7 @@ function createBot () {
 const bot = mineflayer.createBot({
   host: 'TheBestOCA.aternos.me', 
   version: false, // U can replace with 1.16.5 for example, remember to use ', = '1.16.5'
-  username: 'Serveronbot${i}', 
+  username: 'Serveront${i}', 
   port: 13955, 
   plugins: [AutoAuth],
   AutoAuth: 'bot112022'
